@@ -1,5 +1,7 @@
 # VKFS Search Result Display Controller
 
+[![Try in WordPress Playground](https://img.shields.io/badge/Try%20in-WordPress%20Playground-3858e9?logo=wordpress)](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/AtsushiA/VKFS-Search-Result-Display-Controller/main/blueprint.json)
+
 VK Filter Search のURLクエリパラメータに基づいて、インナーコンテンツの表示/非表示を制御するWordPressブロックプラグインです。
 
 ## 概要
